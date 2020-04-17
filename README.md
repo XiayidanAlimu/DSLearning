@@ -1,19 +1,19 @@
 # IBM Data Science
 
-## What is Data Science
+## [Chapter 1] What is Data Science
 
-## Open Source Tools for Data Science
+## [Chapter 2] Open Source Tools for Data Science
 
-## Data Science Methodology
+## [Chapter 3] Data Science Methodology
 
-## Python for Data Science and AI
+## [Chapter 4] Python for Data Science and AI
 
-## Databases and SQL for Data Science
+## [Chapter 5] Databases and SQL for Data Science
 
-## Data Analysis with Python
+## [Chapter 6] Data Analysis with Python
 
-## Data Visualization with Python
+## [Chapter 7] Data Visualization with Python
 
-## Machine Learning with Python
+## [Chapter 8] Machine Learning with Python
 
-## Applied Data Science Capstone
+## [Chapter 9] Applied Data Science Capstone
